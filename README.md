@@ -13,19 +13,3 @@ Displays confidence score for the prediction.
 
 Clean, interactive UI built with Streamlit.
 
-
-🛠️ Setup Instructions
-1. Clone the repository
-git clone https://github.com/Abuzaid-01/ai_human_text_detector.git
-cd ai_human_text_detector
-
-3. Create and activate a virtual environment
-python -m venv venv
-source venv/bin/activate
-# On Windows: venv\Scripts\activate
-
-5. Install dependencies
-pip install streamlit torch transformers
-
-7. Run the Streamlit app
-streamlit run app.py
