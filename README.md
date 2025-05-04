@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Ai_Huma_Text_Classification</h1>
+<h1 align="center" id="title">Ai_Human_Text_Classification</h1>
 
 <p id="description">Using the Hugging Face Transformers library a RoBERTa-based model is used to distinguish between human-written and AI-generated text. The app provides a user-friendly interface for real-time predictions. The model is loaded either from a local directory or directly from the Hugging Face Model Hub.</p>
 
